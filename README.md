@@ -1,7 +1,6 @@
 # XGBoost Gender Classification with optimization
 Perform XGBoost on Gender classification dataset and optimizing with both manual and Random Search tuning. 
 <br/>
-<br/>
 1. Performed XFBoost algorith on gender classification dataset
 <br/>
 2. Perfoemed Manual Tuning to enhance the performance
